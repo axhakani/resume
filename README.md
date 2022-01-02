@@ -34,7 +34,7 @@ Canadian Institute of Technology - Tirana
 
 
 ### Information and Communications Technology, 2018 ###
-Hermann Gmeiner Professional High School - Tirana
+Hermann Gmeiner Professional High School - Tirana <br>
 Professional High School Diploma
 
 
