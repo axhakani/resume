@@ -1,15 +1,17 @@
 # UX RESEARCHER #
+
+#### About Me ####
 Detail oriented UX and Accessibility researcher with 2+ years of experience delivering accessible and secure solutions to design problems. Effective at prioritizing growth and efficiency while focused on working with technologies that serve people first and facilitate better usability in free Open Source and Security Software. Skilled in collaborating with colleagues to achieve company goals.
-Core Competencies
-UX Research
-Accessibility Testing
-Security & Privacy UX
-Linux System Administration
-C, C#, Python, Java, MySQL
-Machine Learning (p5.js, ml5.js)
-Front-End Development
-Git
-Trilingual – English (Fluent), Albanian (Native), German (Basic)
+#### Core Competencies ####
+* UX Research
+* Accessibility Testing
+* Security & Privacy UX
+* Linux System Administration
+* C, C#, Python, Java, MySQL
+* Machine Learning (p5.js, ml5.js)
+* Front-End Development
+* Git
+* Trilingual – English (Fluent), Albanian (Native), German (Basic)
 
 
 
