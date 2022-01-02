@@ -27,11 +27,11 @@ Managing the internal and external self-hosted software required for the studio'
 ## EDUCATION ##
 ### Bachelor of Science, Computer Science, Present ###
 SRH Berlin University of Applied Sciences - Berlin
-Scholarship Recipient
+
 
 ### Bachelor of Science, Software Engineering, 2018-2019 ###
 Canadian Institute of Technology - Tirana
-Scholarship Recipient
+
 
 ### Information and Communications Technology, 2018 ###
 Hermann Gmeiner Professional High School - Tirana
