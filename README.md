@@ -15,26 +15,25 @@ Detail oriented UX and Accessibility researcher with 2+ years of experience deli
 
 
 
-PROFESSIONAL
-EXPERIENCE
-UX Researcher, Ura Design (June 2020 to Present)
+## PROFESSIONAL EXPERIENCE ##
+### UX Researcher, Ura Design (June 2020 to Present) ###
 Creating solutions that provide relevant experiences by understanding the problem and creating an optimal solution that is logical to a user's needs. Successfully facilitated user research on encryption user flows as part of Briar Messenger and Thunderbird mail client PGP capabilities. Led accessibility audit on CalyxOS, a private and secure Android OS alternative, making it accessible to a wider range of users including screen reader users.
-System Administrator, Ura Design (September 2018 to Present)
+### System Administrator, Ura Design (September 2018 to Present) ###
 Managing the internal and external self-hosted software required for the studio's day-to-day operations and security, prioritizing and using Open Source tools and softwares, such as Mattermost, Nextcloud, HedgeDoc and more.
 
 
 
 
-EDUCATION
-Bachelor of Science, Computer Science, Present
+## EDUCATION ##
+### Bachelor of Science, Computer Science, Present ###
 SRH Berlin University of Applied Sciences - Berlin
 Scholarship Recipient
 
-Bachelor of Science, Software Engineering, 2018-2019
+### Bachelor of Science, Software Engineering, 2018-2019 ###
 Canadian Institute of Technology - Tirana
 Scholarship Recipient
 
-Information and Communications Technology, 2018
+### Information and Communications Technology, 2018 ###
 Hermann Gmeiner Professional High School - Tirana
 Professional High School Diploma
 
